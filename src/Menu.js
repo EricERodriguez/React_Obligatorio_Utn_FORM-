@@ -4,7 +4,7 @@ function Menu() {
   return (
     <div >
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="/">Lentes de sol</a>
+            <a class="navbar-brand p-3" href="/">Celulares</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
