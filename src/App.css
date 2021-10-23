@@ -183,3 +183,11 @@ button {
 .display-4 {
   color: #0e101c;
 }
+.colorFont{
+  color: aliceblue;
+}
+.app-header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
