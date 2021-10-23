@@ -5,6 +5,7 @@ import Home from './Home';
 import Menu from './Menu';
 import Registro from './Registro';
 import Loguin from './Loguin';
+import Buy from './Buy';
 import Detalle from './Detalle';
 import NotFoundPage from './NotFoundPage';
 
@@ -19,6 +20,9 @@ function App() {
         </Router>
         <Router path="/loguin" exact>
           <Loguin />
+        </Router>
+        <Router path="/buy" exact>
+          <Buy />
         </Router>
         <Router path="/detalle" exact>
           <Detalle />
